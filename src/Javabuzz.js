@@ -27,6 +27,7 @@ var Javabuzz = function(){
    if (this.isDivisibleByFive(number)) {
      return "Buzz";
    }
+   return number;
  };
 
 };
